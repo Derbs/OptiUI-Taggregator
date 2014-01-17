@@ -12,9 +12,9 @@ This repository is the starting point for the new OptiRTC UI developer take-home
 Getting Started
 ---------------
 
-1) Clone this repository to your local system.
-2) Build your application, checking in code to your local clone of this repository.
-3) Send a zip file of your complete repository to abedig (at) geosyntec (dot) com.
+1. Clone this repository to your local system.
+2. Build your application, checking in code to your local clone of this repository.
+3. Send a zip file of your complete repository to abedig (at) geosyntec (dot) com.
 
 How you will be evaluated
 -------------------------
