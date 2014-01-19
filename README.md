@@ -1,7 +1,7 @@
 OptiUI-Taggregator
 ==================
 
-Single page application for managing a collection of tagged images; new developer test repository.
+Test for new OptiRTC UI developer; Single page application for managing a collection of tagged images
 
 
 Welcome
